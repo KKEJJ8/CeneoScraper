@@ -11,7 +11,7 @@
 
 
 ## Analysis ofteh structure of the webpage
-|--------|----------|-------|
+|--------|--------|-------|
 |opinion Id| | |
 |author| | |
 |recomentation| | |
