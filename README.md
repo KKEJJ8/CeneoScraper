@@ -11,14 +11,16 @@
 
 
 ## Analysis ofteh structure of the webpage
-|--------|--------|-------|
-|opinion Id| | |
-|author| | |
-|recomentation| | |
-|number of stars| | |
-|content of opinion| | |
-|list of advantages| | |
-|for how many helpful| | |
-|for how many unhelpful| | |
-|publish date| | |
-|purchase date| | |
+|Component|Selector|Variable|
+|---------|--------|--------|
+|opinion ID|#opinion-ID | |
+|author|.author||
+|recommendation|.recommendation||
+|number of stars|.star .rating||
+|opinion’s content|.opinion-content||
+|list of advantages|.advantages li||
+|list of disadvantages|.disadvantages li||
+|for how many helpful|.helpful-count||
+|for how ,ane unhelpful|.unhelpful-count||
+|publishing date|.publish-data||
+|Purchase date|.purchase-data||
